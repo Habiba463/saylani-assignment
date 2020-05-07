@@ -1,0 +1,56 @@
+#header{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+td{
+    padding: 5px;
+}
+#main{
+    padding: 5px;
+    background-color: blueviolet;
+    color: white;
+    font-size: 17px;
+}
+input{
+    padding: 10px;
+}
+label{
+    margin-right: 25px;
+}
+.dob{
+    margin-right: 10px;
+}
+#address{
+    position: relative;
+    bottom: 60px;
+    margin-right: 40px;
+}
+#option{
+    text-align: center;
+}
+#mail{
+    margin-right: 30px ;
+}
+#num{
+    margin-right: 3px;
+}
+#gender{
+    margin-right: 50px;
+}
+#city{
+       margin-right: 65px;
+}
+#pin{
+    margin-right: 34px;
+}
+#state{
+    margin-right: 60px;
+}
+#country{
+    margin-right: 37px;
+}
+#hobby{
+    margin-right: 35px;
+}
